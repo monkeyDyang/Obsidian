@@ -1,0 +1,120 @@
+{
+  "main": {
+    "id": "61ffd75eaf8e5b88",
+    "type": "split",
+    "children": [
+      {
+        "id": "19f1cda3b0a8efb8",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c729debe3f43994",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd05d00c4704ba44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02920e1844a0a597",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9f99b44e9dd65308",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3cc3759339ca7546",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d62910f0b96b9aa0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ecb02a9c8ccc0ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6fc7b5388ce91ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "25a5f51b1abae639",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "63d33d5de32daa2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "README.md",
+    "yangyang/Java/Java类库/Guava.md"
+  ]
+}

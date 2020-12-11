@@ -1,0 +1,121 @@
+{
+  "main": {
+    "id": "20444eef5b603dde",
+    "type": "split",
+    "children": [
+      {
+        "id": "20c2eb7ce4351810",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "572e89395f80d3e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d5c9be832d39d30",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be42fddd97d4b5e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c3363c4fba53e9c3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#集合",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b1392d61f04e930",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 260
+  },
+  "right": {
+    "id": "04c51d34f5832408",
+    "type": "split",
+    "children": [
+      {
+        "id": "a684c27399e87929",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6472c94fe7e9d766",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7d1b9c7356d1b717",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "7efc349fa5e256a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.3999938964844
+  },
+  "lastOpenFiles": [
+    "Java/Java基础知识/集合/Collection.md",
+    "Java/Java基础知识/集合/ArrayList.md",
+    "Java/Java基础知识/集合/List.md",
+    "Java/Java基础知识/集合/LinkedList.md",
+    "Java/Java类库/Utils库/ArrayUtil.md",
+    "Java/Java类库/Guava.md",
+    "Knowledge/Obsidian.md",
+    "Knowledge/Tools.md",
+    "Knowledge/Zettelkasten笔记法.md",
+    "Knowledge/tools.md"
+  ]
+}
