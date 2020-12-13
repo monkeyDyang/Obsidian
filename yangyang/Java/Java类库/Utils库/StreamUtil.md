@@ -1,4 +1,6 @@
 # 常用流操作工具类
+#工具类 #Java #流操作
+
 ```java
 public class StreamUtil {
     private static final Logger LOGGER = LoggerFactory.getLogger(StreamUtil.class);

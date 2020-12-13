@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "19f1cda3b0a8efb8",
+        "id": "019582888842ca88",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "yangyang/Diary/2020-12-13.md",
+            "mode": "preview"
           }
         }
       }
@@ -25,6 +25,7 @@
       {
         "id": "cd05d00c4704ba44",
         "type": "tabs",
+        "dimension": 74.42455242966751,
         "children": [
           {
             "id": "02920e1844a0a597",
@@ -35,54 +36,42 @@
             }
           },
           {
-            "id": "9f99b44e9dd65308",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
             "id": "3cc3759339ca7546",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "d62910f0b96b9aa0",
-    "type": "split",
-    "children": [
-      {
-        "id": "9ecb02a9c8ccc0ed",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "c6fc7b5388ce91ca",
+            "id": "9f99b44e9dd65308",
             "type": "leaf",
             "state": {
-              "type": "backlink",
+              "type": "search",
               "state": {
-                "file": "README.md",
-                "collapseAll": false,
+                "query": "tag:#工具集",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f3380a3bed4ce8ef",
+        "type": "tabs",
+        "dimension": 25.57544757033248,
+        "children": [
+          {
+            "id": "63d33d5de32daa2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "yangyang/Diary/2020-12-13.md"
               }
             }
           },
@@ -97,24 +86,45 @@
             }
           },
           {
-            "id": "63d33d5de32daa2d",
+            "id": "c6fc7b5388ce91ca",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "backlink",
               "state": {
-                "file": "README.md"
+                "file": "yangyang/Diary/2020-12-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 371
+  },
+  "right": {
+    "id": "d62910f0b96b9aa0",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "README.md",
-    "yangyang/Java/Java类库/Guava.md"
+    "yangyang/Diary/2020-12-13.md",
+    "yangyang/Java/Java基础知识/集合/ArrayList.md",
+    "yangyang/Java/Java基础知识/集合/LinkedList.md",
+    "yangyang/Java/Java基础知识/集合/List.md",
+    "yangyang/Knowledge/Gods.md",
+    "yangyang/Knowledge/Notion.md",
+    "yangyang/Knowledge/Tools.md",
+    "yangyang/Knowledge/Flomo.md",
+    "yangyang/ZK卡片/Card/Java工具类.md",
+    "yangyang/ZK卡片/Card/Obsidian.md"
   ]
 }

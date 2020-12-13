@@ -1,5 +1,5 @@
 # ArrayList
-tags: #Java #集合
+#Java #集合
 
 > [List](List.md)接口的实现类
 > 一个**数组队列**，相当于 **动态数组**
@@ -22,7 +22,7 @@ ArrayList(Collection<? extends E> collection)
 ## 遍历方式
 **ArrayList支持的3种遍历方式**
 
-(01) 第一种，**通过迭代器遍历**。即通过 Iterator 去遍历。
+(01) 第一种，**通过迭代器遍历**。即通过 [[Iterator]] 去遍历。
 
 ```java
 Integer value = null;
