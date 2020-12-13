@@ -1,4 +1,6 @@
 # 编码工具类
+#工具类 #Java #编码
+
 ```java
 public class CodecUtil {
     private static final Logger LOGGER = LoggerFactory.getLogger(CodecUtil.class);

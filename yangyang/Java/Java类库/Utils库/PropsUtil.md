@@ -1,4 +1,6 @@
 # Properties文件操作类
+#工具类 #Java #属性文件
+
 ```java
 package com.***.util;
 

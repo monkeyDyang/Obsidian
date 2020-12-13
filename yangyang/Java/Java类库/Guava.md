@@ -1,5 +1,7 @@
 # Guava
-tags: #Java #工具类
+#Java #工具类 #Google #Maven #番石榴
+
+[在线文档](https://tool.oschina.net/apidocs/apidoc?api=guava)
 
 > Guava 是 Google 的一个开源项目，包含许多 Google 核心 Java 常用库，如：集合 [collections] 、缓存 [caching] 、原生类型支持 [primitives support] 、并发库 [concurrency libraries] 、通用注解 [common annotations] 、字符串处理 [string processing] 与 I/O 等。
 
@@ -27,6 +29,11 @@ tags: #Java #工具类
 ## 并发[Concurrency]
 
 ## 字符串处理[Strings]
+
+### 连接器Joiner
+
+### 填充
+
 
 ## 原生类型[Primitives]
 
